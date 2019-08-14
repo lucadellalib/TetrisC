@@ -1,6 +1,6 @@
 /**
  * @file check_block.c
- * @brief Unit test.
+ * @brief Unit tests.
  *
  * @author Luca Della Libera (<luca310795@gmail.com>)
  * @version 1.0
