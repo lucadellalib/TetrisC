@@ -2,6 +2,8 @@
 
 A simple Tetris written in C for a university project. Tested on Ubuntu 18.04 LTS.
 
+![screenshot](/img/game.png?raw=true)
+
 ---------------------------------------------------------------------------------------------------------
 
 ## Requirements
@@ -52,9 +54,9 @@ CMake configuration files.
 
 ---------------------------------------------------------------------------------------------------------
 
-### Icons
+### Img
 
-Icons for documentation.
+Images for documentation.
 
 ---------------------------------------------------------------------------------------------------------
 
