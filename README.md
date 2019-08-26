@@ -1,6 +1,6 @@
 # TetrisC
 
-A simple Tetris written in C for a university project. Tested on Ubuntu 18.04 LTS.
+A simple Tetris implemented in C for a university project. Tested on Ubuntu 18.04 LTS.
 
 ![screenshot](/img/game.png?raw=true)
 
