@@ -38,9 +38,9 @@ To build the documentation, type `doxygen` in the root folder.
 
 ## Usage
 
-Type `./bin/check_block` to run the unit tests.
+To run the unit tests, type `./bin/check_block` in the root folder.
 
-Type `./bin/TetrisC` to run the game.
+To run the game, type `./bin/TetrisC` in the root folder.
 
 ---------------------------------------------------------------------------------------------------------
 
