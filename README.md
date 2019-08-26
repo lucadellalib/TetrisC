@@ -32,9 +32,7 @@ Clone or download the repository and type the following commands in the root fol
 
 ```make```
 
-To build the documentation, type the following command in the root folder:
-
-```doxygen```
+To build the documentation, type `doxygen` in the root folder.
 
 ---------------------------------------------------------------------------------------------------------
 
