@@ -46,6 +46,6 @@ To run the game, type `./bin/TetrisC` in the root folder.
 
 ## Contact
 
-luca310795@gmail.com
+luca.dellalib@gmail.com
 
 ---------------------------------------------------------------------------------------------------------
